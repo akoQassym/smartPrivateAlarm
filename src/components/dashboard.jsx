@@ -138,7 +138,7 @@ const MainFile = () => {
                         <AccordionDetails>
                             <Typography>
                                 Go to bed and get up at the same time every day. Try to limit the difference in your sleep schedule on weeknights and weekends to no more than one hour. Being consistent reinforces your body's sleep-wake cycle.
-                                In a 2010 study published in the journal <a href="https://pubmed.ncbi.nlm.nih.gov/20394320/" target="_blank">Sleep</a>, researchers concluded that participants who had stable and predictable routines took less time to fall asleep, had improved sleep quality, and slept more efficiently.
+                                In a 2010 study published in the journal <a href="https://pubmed.ncbi.nlm.nih.gov/20394320/" rel="noreferrer" target="_blank">Sleep</a>, researchers concluded that participants who had stable and predictable routines took less time to fall asleep, had improved sleep quality, and slept more efficiently.
                             </Typography>
                         </AccordionDetails>
                     </Accordion>
@@ -166,7 +166,7 @@ const MainFile = () => {
                         </AccordionSummary>
                         <AccordionDetails>
                             <Typography>
-                                When you're having difficulty falling asleep, staring at the clock only makes it worse. "It increases your stress and worry about not falling asleep," Lisa Meltzer, an education scholar for the <a href="https://www.sleepfoundation.org/" target="_blank">National Sleep Foundation</a>, explained to HuffPost. So, she suggests turning your alarm clock away from you. If you can't watch the minutes go by, you'll have a much easier time de-stressing and soothing yourself to sleep.
+                                When you're having difficulty falling asleep, staring at the clock only makes it worse. "It increases your stress and worry about not falling asleep," Lisa Meltzer, an education scholar for the <a href="https://www.sleepfoundation.org/" rel="noreferrer" target="_blank">National Sleep Foundation</a>, explained to HuffPost. So, she suggests turning your alarm clock away from you. If you can't watch the minutes go by, you'll have a much easier time de-stressing and soothing yourself to sleep.
                             </Typography>
                         </AccordionDetails>
                     </Accordion>
@@ -196,7 +196,7 @@ const MainFile = () => {
                         <AccordionDetails>
                             <Typography>
                                 Regular physical activity can promote better sleep. Avoid being active too close to bedtime, however. Spending time outside every day might be helpful, too.
-                                Active people tend to report getting a better night's sleep than those who aren't out and about, according to a 2013 <a href="https://www.sleepfoundation.org/professionals/sleep-americar-polls/2013-exercise-and-sleep" target="_blank">National Sleep Foundation</a> poll.
+                                Active people tend to report getting a better night's sleep than those who aren't out and about, according to a 2013 <a href="https://www.sleepfoundation.org/professionals/sleep-americar-polls/2013-exercise-and-sleep" rel="noreferrer" target="_blank">National Sleep Foundation</a> poll.
                             </Typography>
                         </AccordionDetails>
                     </Accordion>
